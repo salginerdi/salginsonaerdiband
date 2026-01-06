@@ -27,8 +27,9 @@ const Footer = () => {
                     </ul>
 
                     <p className="font-retro text-xs opacity-40">
+                        Tüm Hakları Saklıdır.<br/>
                         © 2026 S<span className="inline-block scale-x-[-1]">S</span>E<br/>
-                        Tüm Hakları Saklıdır.
+
                     </p>
                 </div>
 
