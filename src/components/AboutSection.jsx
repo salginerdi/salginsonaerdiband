@@ -35,12 +35,12 @@ const AboutSection = () => {
                     transition={{ repeat: Infinity, ease: "linear", duration: 15 }}
                 >
                     <span>+++ KOMİK Mİ? +++</span>
-                    <span>YENİ ALBÜM "YANKILAR" ÇIKTI (KİMSE DİNLEMEDİ) +++</span>
-                    <span>BİZİ SEVMENİZE GEREK YOK, BİZ DE SİZİ SEVMİYORUZ +++</span>
-                    <span>KONSERLERDE KULAK TIKACI TAKMAK ZORUNLUDUR (BİZ TAKIYORUZ) +++</span>
-                    <span>SON DAKİKA: GRUP HALA DAĞILMADI +++</span>
-                    <span>YENİ ALBÜM "YANKILAR" ÇIKTI (KİMSE DİNLEMEDİ) +++</span>
-                    <span>KOMİK Mİ? KOMİKTİR BELKİ +++</span>
+                    <span>+++ YENİ ALBÜM "YANKILAR" ÇIKTI (KİMSE DİNLEMEDİ) +++</span>
+                    <span>+++ BİZİ SEVMENİZE GEREK YOK, BİZ DE SİZİ SEVMİYORUZ +++</span>
+                    <span>+++ KONSERLERDE KULAK TIKACI TAKMAK ZORUNLUDUR (BİZ TAKIYORUZ) +++</span>
+                    <span>+++ SON DAKİKA: GRUP HALA DAĞILMADI +++</span>
+                    <span>+++ YENİ ALBÜM "YANKILAR" ÇIKTI (KİMSE DİNLEMEDİ) +++</span>
+                    <span>+++ KOMİK Mİ? KOMİKTİR BELKİ +++</span>
                 </motion.div>
             </div>
 
