@@ -19,7 +19,6 @@ const Footer = () => {
                     </p>
                 </div>
 
-                {/* Sağ Taraf */}
                 <div className="text-right relative z-10">
                     <ul className="flex flex-col gap-2 font-retro text-lg font-bold mb-8">
                         <li><a href="#" className="hover:underline">INSTAGRAM (ZAMAN KAYBI)</a></li>

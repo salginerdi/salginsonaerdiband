@@ -14,7 +14,7 @@ const members = [
     },
     {
         role: "BASS & DEPRESYON",
-        desc: "Grupta notaları bilen tek kişi. Yüzü hiç gülmez, çünkü basçı.",
+        desc: "Nota mota da bilmez. Yüzü hiç gülmez, çünkü basçı.",
         icon: <Frown size={32} />
     },
     {
