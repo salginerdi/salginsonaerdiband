@@ -40,6 +40,7 @@ const AboutSection = () => {
                     <span>KONSERLERDE KULAK TIKACI TAKMAK ZORUNLUDUR (BİZ TAKIYORUZ) +++</span>
                     <span>+++ SON DAKİKA: GRUP HALA DAĞILMADI +++</span>
                     <span>YENİ ALBÜM "YANKILAR" ÇIKTI (KİMSE DİNLEMEDİ) +++</span>
+                    <span>+++ KOMİK Mİ? KOMİKTİR BELKİ +++</span>
                 </motion.div>
             </div>
 
