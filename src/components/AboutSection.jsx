@@ -56,10 +56,10 @@ const AboutSection = () => {
                             <strong>SSE (Salgın Sona Erdi)</strong>, 2024 yılında "Müzik piyasası çok iyi, bir de biz eksik kalmayalım" diyerek kurulmadı. Tam aksine, gürültü yapacak yer arıyorduk ve prova stüdyoları evden daha ucuzdu.
                         </p>
                         <p>
-                            Post-Punk yapıyoruz çünkü akor basmak zor geliyor. Şarkılarımız genellikle modern hayatın saçmalığı, bitmeyen pazartesi sendromları ve bozuk kahve makineleri hakkında.
+                            Post-Punk yapıyoruz çünkü post-punk yapıyoruz. Şarkılarımız genellikle modern hayatın saçmalığı, bitmeyen pazartesi sendromları ve bozuk kahve makineleri hakkında.
                         </p>
                         <p className="font-bold bg-brand-purple text-retro-white inline-block px-2 transform -rotate-1">
-                            "Amacımız ünlü olmak değil, komşuları rahatsız etmek."
+                            "Amacımız ünlü olmak değil, komşuları rahatsız etmek de değil. Bizim amacımız yok."
                         </p>
                     </div>
                 </div>
